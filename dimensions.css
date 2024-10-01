@@ -1,0 +1,27 @@
+.c1{
+    font-size: 2rem;
+}
+.c2{
+    font-size: 3rem;
+}
+.mydiv{
+    font-size: 2rem;  
+    /* 2*16=32px */
+}
+.c3{
+    font-size: 3em;
+    /* 3*32=96px */
+}
+.percent_cls{
+    width:400px;
+    height:250px;
+    border:1px solid #FF0000;
+}
+.c4{
+    width:100%;
+    background-color: green;
+}
+.c5{
+    width:50vw;
+    background-color: brown;
+}
